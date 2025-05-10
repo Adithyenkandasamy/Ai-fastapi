@@ -1,1 +1,1 @@
-# Quiz-app-Ai
+# FastAPi for all ai calls
